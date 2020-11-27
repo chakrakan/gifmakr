@@ -7,7 +7,7 @@
     "lint": "prettier --check \"src/**/*.{js,jsx}\""
   },
   "dependencies": {
-    "@ffmpeg/core": "0.8.4",
+    "@ffmpeg/core": "0.8.5",
     "@ffmpeg/ffmpeg": "0.9.6",
     "react": "17.0.1",
     "react-dom": "17.0.1"
