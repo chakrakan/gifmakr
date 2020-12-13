@@ -20,6 +20,6 @@
     "@web/test-runner": "0.10.2",
     "chai": "4.2.0",
     "prettier": "2.2.1",
-    "snowpack": "2.18.3"
+    "snowpack": "2.18.4"
   }
 }
